@@ -2,10 +2,10 @@
 --Bradley Trowridge
 
 address = {}
-address.street = "930 Jasmine St."
-address.city = "Celebration"
+address.street = "1234 Street st."
+address.city = "Lakeland"
 address.state = "FL"
-address.zip = 34747
+address.zip = 12345
 address.isforsale = true
 
 print(address.city ..", "..address["state"])
